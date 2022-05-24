@@ -1,0 +1,7 @@
+git init =>initilizing git in present folder
+
+git status => list all untracked files
+
+git add -A =>add all untracked files to SA
+
+git comit -n "msg" => sa to local repo
