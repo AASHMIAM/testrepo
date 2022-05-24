@@ -5,3 +5,11 @@ git status => list all untracked files
 git add -A =>add all untracked files to SA
 
 git commit -m "msg" => sa to local repo
+
+git remote add name path => used to add the path of githut where to push
+
+git push -u name branch => to push ini github
+
+git push name branch => to push the same file when modified  -u is not used in the command
+
+git push -v => to show the name
